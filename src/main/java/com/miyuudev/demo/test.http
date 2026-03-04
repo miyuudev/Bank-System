@@ -1,7 +1,0 @@
-POST http://localhost:8080/accounts
-Content-Type: application/json
-
-{
-    "ownerName": "Yuuki Wanchan",
-    "balance": 1000
-}
